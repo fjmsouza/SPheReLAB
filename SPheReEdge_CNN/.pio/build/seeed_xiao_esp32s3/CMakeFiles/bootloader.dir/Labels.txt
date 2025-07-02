@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/CMakeFiles/bootloader
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/CMakeFiles/bootloader.rule
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/CMakeFiles/bootloader-complete.rule
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/GitHub/SPheRe/SPheReEdge_CNN/.pio/build/seeed_xiao_esp32s3/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

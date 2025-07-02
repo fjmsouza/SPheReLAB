@@ -1,0 +1,15 @@
+dependencies:
+  espressif/esp-nn:
+    component_hash: 5d99b2991c109211ea5722bae481bbe243dc7e064d9ffd9e5dfa58aba7be9d88
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.1
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.2.1
+manifest_hash: 7dc6c85799cdcd1674bc670305decc24663a9d0602e45df8d7677247784cdf61
+target: esp32s3
+version: 1.0.0

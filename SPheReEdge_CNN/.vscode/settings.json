@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "micro_interpreter.h": "c",
+        "schema_generated.h": "c"
+    }
+}
