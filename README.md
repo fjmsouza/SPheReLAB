@@ -1,7 +1,8 @@
 # SPheRe - Smart Phenotyping Research, presents A Remote Monitoring of Water Stress in Plants via RGB Imaging
 
 
-![Exemplo de imagem](spherelab.png)
+<!-- ![Exemplo de imagem](spherelab.png) -->
+<img src="spherelab.png" alt="Arquitetura" width="300"/>
 
 
 This automatic irrigation system uses lower-cost components and data storage in the cloud. Employing a CMOS camera module installed at a fixed position instead of a colorimeter.
